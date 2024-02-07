@@ -1,5 +1,5 @@
 {
-   "name": "Terraform and AWS CLI",
+   "name": "Terraform and GCP CLI",
    "build": {
       "dockerfile": "Dockerfile"
       // "args": {
